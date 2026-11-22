@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Ympp.SlashEffectStudio.Editor
+namespace Sizzle.SlashFx.Editor
 {
     public enum RibbonMode
     {

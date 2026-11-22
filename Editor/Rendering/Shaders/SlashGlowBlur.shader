@@ -1,4 +1,4 @@
-Shader "Hidden/Ympp/SlashEffectStudio/GlowBlur"
+Shader "Hidden/Sizzle/SlashFx/GlowBlur"
 {
     Properties
     {

@@ -1,9 +1,9 @@
 using System;
 using UnityEngine;
 using UnityEngine.Rendering;
-using Ympp.SlashEffectStudio.Editor.Math;
+using Sizzle.SlashFx.Editor.Math;
 
-namespace Ympp.SlashEffectStudio.Editor.Rendering
+namespace Sizzle.SlashFx.Editor.Rendering
 {
     /// <summary>
     /// Render-Pipeline-agnostic GPU offscreen renderer for SlashEffectAsset.
@@ -12,9 +12,9 @@ namespace Ympp.SlashEffectStudio.Editor.Rendering
     /// </summary>
     public sealed class SlashGpuRenderer : IDisposable
     {
-        private const string RibbonShaderName = "Hidden/Ympp/SlashEffectStudio/RibbonBake";
-        private const string GlowShaderName = "Hidden/Ympp/SlashEffectStudio/GlowBlur";
-        private const string PixelArtShaderName = "Hidden/Ympp/SlashEffectStudio/PixelArt";
+        private const string RibbonShaderName = "Hidden/Sizzle/SlashFx/RibbonBake";
+        private const string GlowShaderName = "Hidden/Sizzle/SlashFx/GlowBlur";
+        private const string PixelArtShaderName = "Hidden/Sizzle/SlashFx/PixelArt";
 
         private Material _ribbonMat;
         private Material _glowMat;

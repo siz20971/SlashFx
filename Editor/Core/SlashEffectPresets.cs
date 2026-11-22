@@ -1,8 +1,8 @@
 using System.Collections.Generic;
 using UnityEngine;
-using Ympp.SlashEffectStudio.Editor.Math;
+using Sizzle.SlashFx.Editor.Math;
 
-namespace Ympp.SlashEffectStudio.Editor
+namespace Sizzle.SlashFx.Editor
 {
     /// <summary>
     /// Built-in 11 slash presets and curve presets faithfully ported from SlashEffectStudio

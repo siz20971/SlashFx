@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.IO;
 using UnityEditor;
 using UnityEngine;
-using Ympp.SlashEffectStudio.Editor.Rendering;
+using Sizzle.SlashFx.Editor.Rendering;
 
-namespace Ympp.SlashEffectStudio.Editor.Baking
+namespace Sizzle.SlashFx.Editor.Baking
 {
     public sealed class SpriteSheetBakeResult
     {

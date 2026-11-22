@@ -3,7 +3,7 @@ using UnityEditor;
 using UnityEditor.U2D.Sprites;
 using UnityEngine;
 
-namespace Ympp.SlashEffectStudio.Editor.Baking
+namespace Sizzle.SlashFx.Editor.Baking
 {
     public struct BakedSpriteSlice
     {

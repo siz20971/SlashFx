@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.IO;
 using UnityEditor;
 using UnityEngine;
-using Ympp.SlashEffectStudio.Editor.Baking;
-using Ympp.SlashEffectStudio.Editor.Generators;
-using Ympp.SlashEffectStudio.Editor.Math;
-using Ympp.SlashEffectStudio.Editor.Rendering;
+using Sizzle.SlashFx.Editor.Baking;
+using Sizzle.SlashFx.Editor.Generators;
+using Sizzle.SlashFx.Editor.Math;
+using Sizzle.SlashFx.Editor.Rendering;
 
-namespace Ympp.SlashEffectStudio.Editor.UI
+namespace Sizzle.SlashFx.Editor.UI
 {
     /// <summary>
     /// Main 3-column interactive Unity EditorWindow for Slash Effect Studio.
@@ -77,8 +77,8 @@ namespace Ympp.SlashEffectStudio.Editor.UI
         private bool _foldBake = true;
 
         // Resizable side panels
-        private const string PrefLeftPanelWidth = "Ympp.SlashEffectStudio.LeftPanelWidth";
-        private const string PrefRightPanelWidth = "Ympp.SlashEffectStudio.RightPanelWidth";
+        private const string PrefLeftPanelWidth = "Sizzle.SlashFx.LeftPanelWidth";
+        private const string PrefRightPanelWidth = "Sizzle.SlashFx.RightPanelWidth";
         private const float DefaultLeftPanelWidth = 300f;
         private const float DefaultRightPanelWidth = 320f;
         private const float MinSidePanelWidth = 220f;

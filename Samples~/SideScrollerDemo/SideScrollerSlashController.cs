@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Ympp.SlashEffectStudio.Samples
+namespace Sizzle.SlashFx.Samples
 {
     /// <summary>
     /// Simple XY-plane side-scrolling character controller demonstrating horizontal movement,

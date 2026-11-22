@@ -2,10 +2,10 @@ using System;
 using System.IO;
 using UnityEditor;
 using UnityEngine;
-using Ympp.SlashEffectStudio.Editor.Baking;
-using Ympp.SlashEffectStudio.Editor.Generators;
+using Sizzle.SlashFx.Editor.Baking;
+using Sizzle.SlashFx.Editor.Generators;
 
-namespace Ympp.SlashEffectStudio.Editor
+namespace Sizzle.SlashFx.Editor
 {
     /// <summary>
     /// Verification & smoke-test utility callable via MenuItem or Unity -batchmode -executeMethod.

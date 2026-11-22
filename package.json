@@ -1,7 +1,7 @@
 {
-  "name": "com.ympp.slash-effect-studio",
+  "name": "com.sizzle.slashfx",
   "version": "0.1.0",
-  "displayName": "Slash Effect Studio",
+  "displayName": "Sizzle Slash FX",
   "description": "Procedural 2D XY-plane slash/arc VFX editor for Unity. Edit multi-anchor Bezier ribbons with dual-curve width profiles, bake ready-to-use SpriteSheets with automatic Multiple Sprite slicing, and generate XY-plane ParticleSystem objects & prefabs in one click.",
   "unity": "6000.3",
   "unityRelease": "14f1",
@@ -17,7 +17,7 @@
   ],
   "category": "VFX",
   "author": {
-    "name": "YMPP"
+    "name": "Sizzle"
   },
   "dependencies": {
     "com.unity.2d.sprite": "1.0.0"

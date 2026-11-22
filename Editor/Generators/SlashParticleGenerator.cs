@@ -1,9 +1,9 @@
 using System.IO;
 using UnityEditor;
 using UnityEngine;
-using Ympp.SlashEffectStudio.Editor.Baking;
+using Sizzle.SlashFx.Editor.Baking;
 
-namespace Ympp.SlashEffectStudio.Editor.Generators
+namespace Sizzle.SlashFx.Editor.Generators
 {
     /// <summary>
     /// Generates or Hot-Updates XY-plane ParticleSystem GameObjects, Prefabs, and optional 2D Sprite Animation assets

@@ -1,8 +1,8 @@
 {
-  "name": "Ympp.SlashEffectStudio.Editor",
-  "rootNamespace": "Ympp.SlashEffectStudio.Editor",
+  "name": "Sizzle.SlashFx.Editor",
+  "rootNamespace": "Sizzle.SlashFx.Editor",
   "references": [
-    "Ympp.SlashEffectStudio.Runtime",
+    "Sizzle.SlashFx.Runtime",
     "Unity.2D.Sprite.Editor"
   ],
   "includePlatforms": [

@@ -1,6 +1,6 @@
 {
-  "name": "Ympp.SlashEffectStudio.Runtime",
-  "rootNamespace": "Ympp.SlashEffectStudio",
+  "name": "Sizzle.SlashFx.Runtime",
+  "rootNamespace": "Sizzle.SlashFx",
   "references": [],
   "includePlatforms": [],
   "excludePlatforms": [],

@@ -2,9 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using UnityEngine;
-using Ympp.SlashEffectStudio.Editor.Math;
+using Sizzle.SlashFx.Editor.Math;
 
-namespace Ympp.SlashEffectStudio.Editor
+namespace Sizzle.SlashFx.Editor
 {
     /// <summary>
     /// Bidirectional JSON serializer compatible with the web SlashEffectStudio and SlashEffectCli (.slash.json).

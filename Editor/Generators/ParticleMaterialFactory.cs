@@ -2,9 +2,9 @@ using System.IO;
 using UnityEditor;
 using UnityEngine;
 using UnityEngine.Rendering;
-using Ympp.SlashEffectStudio.Editor.Baking;
+using Sizzle.SlashFx.Editor.Baking;
 
-namespace Ympp.SlashEffectStudio.Editor.Generators
+namespace Sizzle.SlashFx.Editor.Generators
 {
     /// <summary>
     /// Automatically creates or updates a Render-Pipeline-aware Particle Material (Built-in / URP / HDRP)

@@ -1,4 +1,4 @@
-Shader "Hidden/Ympp/SlashEffectStudio/RibbonBake"
+Shader "Hidden/Sizzle/SlashFx/RibbonBake"
 {
     Properties
     {

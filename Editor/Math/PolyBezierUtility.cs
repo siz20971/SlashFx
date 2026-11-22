@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Ympp.SlashEffectStudio.Editor.Math
+namespace Sizzle.SlashFx.Editor.Math
 {
     /// <summary>
     /// High-precision Arc-Length Lookup Table (LUT) for multi-anchor cubic Poly-Bezier splines.

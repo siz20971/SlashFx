@@ -1,8 +1,8 @@
 using UnityEditor;
 using UnityEngine;
-using Ympp.SlashEffectStudio.Editor.Rendering;
+using Sizzle.SlashFx.Editor.Rendering;
 
-namespace Ympp.SlashEffectStudio.Editor.UI
+namespace Sizzle.SlashFx.Editor.UI
 {
     /// <summary>
     /// Renders a live XY-plane preview of the active SlashEffectAsset directly in the Unity Scene View

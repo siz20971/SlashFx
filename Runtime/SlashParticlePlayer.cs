@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Ympp.SlashEffectStudio
+namespace Sizzle.SlashFx
 {
     /// <summary>
     /// Lightweight XY-plane playback helper for Slash Effect Studio ParticleSystems.

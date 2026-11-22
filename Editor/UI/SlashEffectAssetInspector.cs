@@ -1,9 +1,9 @@
 using UnityEditor;
 using UnityEngine;
-using Ympp.SlashEffectStudio.Editor.Baking;
-using Ympp.SlashEffectStudio.Editor.Generators;
+using Sizzle.SlashFx.Editor.Baking;
+using Sizzle.SlashFx.Editor.Generators;
 
-namespace Ympp.SlashEffectStudio.Editor.UI
+namespace Sizzle.SlashFx.Editor.UI
 {
     [CustomEditor(typeof(SlashEffectAsset))]
     public class SlashEffectAssetInspector : UnityEditor.Editor

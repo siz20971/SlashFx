@@ -1,4 +1,4 @@
-Shader "Hidden/Ympp/SlashEffectStudio/PixelArt"
+Shader "Hidden/Sizzle/SlashFx/PixelArt"
 {
     Properties
     {
