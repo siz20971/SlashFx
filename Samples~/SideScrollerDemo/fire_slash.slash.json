@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "name": "FireSlash",
+  "canvasWidth": 512,
+  "canvasHeight": 512,
+  "pivot": { "x": 0.5, "y": 0.5 },
+  "path": {
+    "p0": { "x": 80, "y": 400 },
+    "p1": { "x": 160, "y": 90 },
+    "p2": { "x": 360, "y": 80 },
+    "p3": { "x": 450, "y": 360 }
+  },
+  "width": {
+    "minWidth": 8,
+    "maxWidth": 76,
+    "symmetric": true,
+    "widthCurve": [
+      { "t": 0, "v": 0 },
+      { "t": 0.35, "v": 0.42 },
+      { "t": 0.72, "v": 1 },
+      { "t": 0.9, "v": 0.85 },
+      { "t": 1, "v": 0 }
+    ],
+    "progressWidthCurve": [
+      { "t": 0, "v": 0.25 },
+      { "t": 0.35, "v": 1 },
+      { "t": 0.75, "v": 0.9 },
+      { "t": 1, "v": 0.1 }
+    ],
+    "interpolation": "monotone"
+  },
+  "playback": {
+    "frameCount": 14,
+    "fps": 24,
+    "mode": "progressive",
+    "tailLength": 0.55,
+    "finishMode": "retract",
+    "timeCurve": [
+      { "t": 0, "v": 0 },
+      { "t": 0.3, "v": 0.1 },
+      { "t": 0.7, "v": 0.9 },
+      { "t": 1, "v": 1 }
+    ],
+    "fadeCurve": [
+      { "t": 0, "v": 1 },
+      { "t": 1, "v": 0 }
+    ]
+  },
+  "appearance": {
+    "colorStart": "#f97316",
+    "colorEnd": "#ef4444",
+    "enableGradient": true,
+    "useMultiGradient": true,
+    "colorStops": [
+      { "offset": 0.0, "color": "#dc2626" },
+      { "offset": 0.5, "color": "#f97316" },
+      { "offset": 1.0, "color": "#fef08a" }
+    ],
+    "baseAlpha": 1.0,
+    "enableTailAlphaFade": true,
+    "tailFadeRatio": 0.5,
+    "coreColor": "#fffbeb",
+    "enableCore": true,
+    "coreWidthRatio": 0.28,
+    "coreAlpha": 1.0,
+    "blendMode": "lighter",
+    "glowBlur": 20,
+    "glowColor": "#ea580c",
+    "patternType": "fire",
+    "patternIntensity": 0.6
+  }
+}

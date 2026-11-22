@@ -1,0 +1,32 @@
+{
+  "name": "com.ympp.slash-effect-studio",
+  "version": "0.1.0",
+  "displayName": "Slash Effect Studio",
+  "description": "Procedural 2D XY-plane slash/arc VFX editor for Unity. Edit multi-anchor Bezier ribbons with dual-curve width profiles, bake ready-to-use SpriteSheets with automatic Multiple Sprite slicing, and generate XY-plane ParticleSystem objects & prefabs in one click.",
+  "unity": "6000.3",
+  "unityRelease": "14f1",
+  "keywords": [
+    "slash",
+    "vfx",
+    "2d",
+    "spritesheet",
+    "particle",
+    "bezier",
+    "editor-tool",
+    "sidescroller"
+  ],
+  "category": "VFX",
+  "author": {
+    "name": "YMPP"
+  },
+  "dependencies": {
+    "com.unity.2d.sprite": "1.0.0"
+  },
+  "samples": [
+    {
+      "displayName": "Side-Scroller XY Slash Demo",
+      "description": "Demonstrates XY-plane horizontal movement with FlipX and ParticleSystem slash playback.",
+      "path": "Samples~/SideScrollerDemo"
+    }
+  ]
+}
